@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RetrofitSample</string>
+    <string name="getIpButtonText">Get Ip</string>
+    <string name="getDateButtonText">Get Date</string>
+</resources>
